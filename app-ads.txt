@@ -1,1 +1,3 @@
+# app-ads.txt for Mob Siege (published at the root of the developer website named in the Play listing).
+# The AdMob publisher ID is the part of the app id before the ~ (AdMob > Settings > Account information).
 google.com, pub-7242742896536617, DIRECT, f08c47fec0942fa0
